@@ -6,3 +6,5 @@ User can complete a task and can invoke its actions like delete.
 1. Add New Item to list
 2. Strike-Out task from list
 3. Delete existing item from list
+
+<h3>https://balajin96.github.io/simple-todo-list/ </h3>
